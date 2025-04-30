@@ -5,7 +5,7 @@
 
 🎓 **Data Science and Applied Statistics Graduate (GPA: 4.00/4.00)**  
 📍 Michigan Technological University  
-🔍 Passionate about using data to automate repeatitive tasks, and build models!
+🔍 Passionate about using data to automate repeatitive tasks, and build Machine Learning models!
 
 ---
 
@@ -14,7 +14,7 @@
 I specialize in **Full-Cycle Data Science** — from collecting raw data to building real-world solutions.  
 Here’s what I do best:
 
-- ⚙️ **ETL Pipelines**: Build and deploy scalable ETL workflows using **Apache Airflow** and **Docker** to automate data extraction, transformation, and loading in **Postgres**  
+- ⚙️ **ETL Pipelines**: Build and deploy scalable ETL workflows using **Apache Airflow** and **Docker** to automate data extraction, transformation, and loading in Database  
 - 📊 **Data Analysis & Visualization**: Reveal hidden insights using **Descriptive & Inferential Statistics**, **Hypothesis Testing**, and **A/B Testing**, and create dynamic dashboards in **Tableau**, **Power BI**, and **Excel**
   
 - 🤖 **Machine Learning & Modeling**: Strong mathematical and algorithmic understanding across **forecasting**, **regression**, **classification**, **clustering**, and **deep learning**  with suitable pre-processing steps for each predicitve model.
