@@ -5,7 +5,7 @@
 
 🎓 **Data Science and Applied Statistics Graduate (GPA: 4.00/4.00)**  
 📍 Michigan Technological University  
-🔍 Passionate about turning data into decisions, and models into impact!
+🔍 Passionate about using data to automate repeatitive tasks, and build models!
 
 ---
 
