@@ -11,10 +11,10 @@
 
 ## 💡 What I Bring
 
-I specialize in **full-cycle Data Science** — from collecting raw data to building real-world solutions.  
+I specialize in **Full-Cycle Data Science** — from collecting raw data to building real-world solutions.  
 Here’s what I do best:
 
-- ⚙️ **ETL Pipelines**: Build and deploy scalable ETL workflows using **Apache Airflow** and **Docker** to automate data extraction, transformation, and loading  
+- ⚙️ **ETL Pipelines**: Build and deploy scalable ETL workflows using **Apache Airflow** and **Docker** to automate data extraction, transformation, and loading in **Postgres**  
 - 📊 **Data Analysis & Visualization**: Reveal hidden insights using **Descriptive & Inferential Statistics**, **Hypothesis Testing**, and **A/B Testing**, and create dynamic dashboards in **Tableau**, **Power BI**, and **Excel**
   
 - 🤖 **Machine Learning & Modeling**: Strong mathematical and algorithmic understanding across **forecasting**, **regression**,**classification**, **clustering**, and **deep learning**  
