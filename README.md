@@ -60,19 +60,43 @@ Here’s what I do best:
 
 ---
 
-## 📂 Projects
+## 📂 Portfolio Projects
 
 Explore my featured projects that span across ETL pipelines, forecasting models, NLP applications, and AI systems:
 
-- 📉 [Loan Funnel Performance Analytics](https://github.com/AishwaryaGade02/loan-funnel-optimization-analysis)  
-- 🔁 [User Expense Forecasting with XGBoost & PySpark](https://github.com/AishwaryaGade02/User-Expanse-Forecasting-using-XGBoost)  
-- 🤖 [IT Troubleshooting Chatbot using RAG + Streamlit](https://github.com/AishwaryaGade02/RAG-IT-Chatbot-GPT3.5-LangChain)  
-- 📈 [Forecasting Housing Price Index with ARIMA](https://github.com/AishwaryaGade02/Forecasting-Housing-Index-in-United-States-Using-Time-Series-Models)  
-- 📊 [Predicting Student Drop out using Predictive Modeling Techniques](https://github.com/AishwaryaGade02/Predicting-student-dropout-rate)  
-- 🧠 [Movie Revenue Prediction using NLP + Regression](https://github.com/AishwaryaGade02/Analyzing-Animated-Movie-Release-Date-Patterns-and-its-Effect-on-Revenue)  
-- 📦 [Automated Financial Data Pipeline with Sentiment Insights](https://github.com/AishwaryaGade02/End_to_End_ETL)
+### 💹 Financial Analysis
+- [**ETL-Stock-and-Financial-News-Analysis**](https://github.com/AishwaryaGade02/End_to_End_ETL-Stock-and-Financial-News-Analysis) - End-to-end pipeline for extracting, transforming and analyzing financial news data.
+- [**Loan-Funnel-Optimization-Analysis**](https://github.com/AishwaryaGade02/Loan-Funnel-Optimization-Analysis) - Data-driven optimization of loan application conversion rates.
 
+### 📈 Predictive Analytics & Forecasting
+- [**User-Expanse-Forecasting-using-XGBoost**](https://github.com/AishwaryaGade02/User-Expanse-Forecasting-using-XGBoost) - Gradient boosted models for predicting user spending patterns.
+- [**Housing-Index-Forecasting**](https://github.com/AishwaryaGade02/Forecasting-Housing-Index-in-United-States-Using-Time-Series-Models) - ARIMA modeling to predict US housing price trends.
+- [**Predicting-Student-Dropout-Rate**](https://github.com/AishwaryaGade02/Predicting-student-dropout-rate) - Machine learning models to identify at-risk students and predict dropout probability.
+
+### 🤖 Conversational AI & NLP
+- [**RAG-IT-Chatbot-GPT3.5-LangChain**](https://github.com/AishwaryaGade02/RAG-IT-Chatbot-GPT3.5-LangChain) - Advanced retrieval-augmented generation chatbot for IT support using GPT-3.5 and LangChain.
+- [**Rubber-Duck-Chatbot**](https://github.com/AishwaryaGade02/Rubber-Duck-Chatbot) - Interactive debugging assistant for Python developers using regex, AST parsing and NLP techniques.
+- [**IT-Ticket-Classification**](https://github.com/AishwaryaGade02/IT-Ticket-Classification-using-text-mining-techniques) - Automated classification system for IT support tickets using text mining and NLP.
+
+### 🌍 Environmental Data Science
+- [**California-Wildfire-Data-Analysis**](https://github.com/AishwaryaGade02/California-Wildfire-Data-Analysis) - Comprehensive analysis of wildfire patterns in California from 2014-2025.
+- [**Streamflow-Prediction**](https://github.com/AishwaryaGade02/Predicting-90thpercentile-of-annual-maximum-streamflow-using-Linear-Regression) - Regression analysis to predict extreme streamflow events.
+
+### 🎬 Entertainment Analytics
+- [**Movie-Release-Date-Analysis**](https://github.com/AishwaryaGade02/Analyzing-Animated-Movie-Release-Date-Patterns-and-its-Effect-on-Revenue) - Optimizing release timing for animated films to maximize box office returns.
+
+### 🎮 Fun Projects
+- [**Self-Solver-Wordle-Game**](https://github.com/AishwaryaGade02/Self-solver-wordle-game) - Algorithmic approach to optimally solve Wordle puzzles.
 ---
+
+
+## 📊 My Data Science Journey
+
+- I started with fundamental algorithms and game development
+- Then advanced to sophisticated NLP applications with state-of-the-art models
+- Continued to develope expertise in financial and environmental data analysis
+- Built end-to-end machine learning pipelines for real-world problems
+
 
 ## 🤝 Let's Connect!
 
