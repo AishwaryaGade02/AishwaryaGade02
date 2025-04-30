@@ -17,18 +17,20 @@ Here’s what I do best:
 - ⚙️ **ETL Pipelines**: Build and deploy scalable ETL workflows using **Apache Airflow** and **Docker** to automate data extraction, transformation, and loading in **Postgres**  
 - 📊 **Data Analysis & Visualization**: Reveal hidden insights using **Descriptive & Inferential Statistics**, **Hypothesis Testing**, and **A/B Testing**, and create dynamic dashboards in **Tableau**, **Power BI**, and **Excel**
   
-- 🤖 **Machine Learning & Modeling**: Strong mathematical and algorithmic understanding across **forecasting**, **regression**,**classification**, **clustering**, and **deep learning**  
+- 🤖 **Machine Learning & Modeling**: Strong mathematical and algorithmic understanding across **forecasting**, **regression**, **classification**, **clustering**, and **deep learning**  with suitable pre-processing steps for each predicitve model.
 - 🧠 **Problem Solving**: Passionate about asking the right questions, interpreting trends, and driving decision-making with data
 
 ---
 
 ## 🛠️ Technical Stack
 
-- **Languages**: Python, SQL (Advanced), R  
-- **ML & Analytics**: Scikit-learn, XGBoost, PyTorch, TensorFlow, ARIMA, A/B Testing, Time Series, NLP  
+- **Languages**: Python, SQL (Advanced), R
+- **Libraries & Frameworks**:  Scikit-learn, PyTorch, TensorFlow, Pandas, Numpy, BeautifulSoup, Matplotlib, Seaborn, Streamlit
+- **Core Competencies**: Time Series Forecasting, Machine Learning, Predictive Modeling, Natural Language Processing
+- **Statistical Methods**: Inferencial Statistics, Descriptive Statistics, A/B Testing, Hypothesis Testing   
 - **Data Tools**: Apache Airflow, Docker, PostgreSQL, Tableau, Power BI, Excel  
-- **Big Data**: PySpark, Pandas, NumPy  
-- **AI**: Retrieval-Augmented Generation (RAG), LangChain, Hugging Face, ChromaDB
+- **Big Data**: PySpark 
+- **AI**: Retrieval-Augmented Generation (RAG), LangChain, Hugging Face, ChromaDB, Prompt Engineering
 
 ---
 
