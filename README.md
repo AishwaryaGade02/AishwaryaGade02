@@ -1,4 +1,4 @@
-<img src="https://github.com/AishwaryaGade02/AishwaryaGade02/blob/main/Banner_Image.png" alt="Aishwarya Gade - Data Scientist" width="100%" />
+<img src="https://github.com/AishwaryaGade02/AishwaryaGade02/blob/main/Banner_Image2.png" alt="Aishwarya Gade - Data Scientist" width="100%" />
 
 
 # 👋 Hi, I'm Aishwarya Gade
