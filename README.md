@@ -11,13 +11,13 @@
 
 ## 💡 What I Bring
 
-I specialize in **Full-Cycle Data Science** — from collecting raw data to building real-world solutions.  
+I specialize in **Data Science Life Cycle** — from collecting raw data to building real-world solutions.  
 Here’s what I do best:
 
 - ⚙️ **ETL Pipelines**: Build and deploy scalable ETL workflows using **Apache Airflow** and **Docker** to automate data extraction, transformation, and loading in Database  
 - 📊 **Data Analysis & Visualization**: Reveal hidden insights using **Descriptive & Inferential Statistics**, **Hypothesis Testing**, and **A/B Testing**, and create dynamic dashboards in **Tableau**, **Power BI**, and **Excel**
   
-- 🤖 **Machine Learning & Modeling**: Strong mathematical and algorithmic understanding across **forecasting**, **regression**, **classification**, **clustering**, and **deep learning**  with suitable pre-processing steps for each predicitve model.
+- 🤖 **Machine Learning & Modeling**: Strong mathematical and algorithmic understanding across **forecasting**, **regression**, **classification**, **clustering**, **deep learning**  with suitable pre-processing steps for each predicitve model and hands-on experience with building and optimizing ML models.
 - 🧠 **Problem Solving**: Passionate about asking the right questions, interpreting trends, and driving decision-making with data
 
 ---
@@ -88,15 +88,6 @@ Explore my featured projects that span across ETL pipelines, forecasting models,
 ### 🎮 Fun Projects
 - [**Self-Solver-Wordle-Game**](https://github.com/AishwaryaGade02/Self-solver-wordle-game) - Algorithmic approach to optimally solve Wordle puzzles.
 ---
-
-
-## 📊 My Data Science Journey
-
-- I started with fundamental algorithms and game development
-- Then advanced to sophisticated NLP applications with state-of-the-art models
-- Continued to develope expertise in financial and environmental data analysis
-- Built end-to-end machine learning pipelines for real-world problems
-
 
 ## 🤝 Let's Connect!
 
