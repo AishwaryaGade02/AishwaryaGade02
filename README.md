@@ -5,7 +5,7 @@
 
 🎓 **Data Science and Applied Statistics Graduate (GPA: 4.00/4.00)**  
 📍 Michigan Technological University  
-🔍 Passionate about using data to automate repeatitive tasks, and build Machine Learning models!
+🔍 Passionate about using data to automate repeatitive tasks, find insights, and build Machine Learning models that help businesses to maximize the revenue!
 
 ---
 
