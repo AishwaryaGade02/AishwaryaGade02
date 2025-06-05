@@ -64,9 +64,9 @@ Here’s what I do best:
 
 Explore my featured projects that span across ETL pipelines, forecasting models, NLP applications, and AI systems:
 
-### 💹 Financial Analysis
+### 💹 End-to-end Deployed Projects
 - [**ETL-Stock-and-Financial-News-Analysis**](https://github.com/AishwaryaGade02/End_to_End_ETL-Stock-and-Financial-News-Analysis) - End-to-end pipeline for extracting, transforming and analyzing financial news data.
-- [**Loan-Funnel-Optimization-Analysis**](https://github.com/AishwaryaGade02/Loan-Funnel-Optimization-Analysis) - Data-driven optimization of loan application conversion rates.
+- [**End-to-end-loan-funnel-Analysis**](https://github.com/AishwaryaGade02/Loan-Funnel-Optimization-Analysis) - Data-driven optimization of loan application conversion rates.
 
 ### 📈 Predictive Analytics & Forecasting
 - [**User-Expanse-Forecasting-using-XGBoost**](https://github.com/AishwaryaGade02/User-Expanse-Forecasting-using-XGBoost) - Gradient boosted models for predicting user spending patterns.
